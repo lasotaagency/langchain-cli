@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "langchain-cli"
+version = "0.1.0"
+description = ""
+authors = ["Rajtilak Bhattacharjee <rajtilak.blog@gmail.com>"]
+readme = "README.md"
+packages = [{include = "langchain_cli"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
