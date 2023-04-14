@@ -2,7 +2,9 @@
 
 A command line interface (CLI) for LangChain.
 
+## Usage
 
+`pip install langchain-cli`
 
 
 ## Citation
