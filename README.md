@@ -39,4 +39,4 @@ LangChain CLI is released under the [MIT License](LICENSE).
 
 ## Citation
 
-Chase, H. (2022). LangChain [Computer software]. https://github.com/hwchase17/langchain
+Bhattacharjee, R. (2023) LangChain-CLI [Computer software]. https://github.com/rajtilakjee/langchain-cli
